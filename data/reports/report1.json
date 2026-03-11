@@ -1,0 +1,15 @@
+{
+  "report_id": "REP-018",
+  "report_type": "compliance",
+  "entity": "Department_A",
+  "report_date": "2026-01-01",
+  "metrics": {
+    "total_revenue": 90000,
+    "revenue_breakdown": {
+      "product": 30000,
+      "services": 30000,
+      "subscriptions": 30000
+    },
+    "compliance_score": 90
+  }
+}
